@@ -1,0 +1,80 @@
+body {
+     margin: 0;
+     padding: 0;
+}
+
+.resim {
+     width: 351px;
+     height: 113px;
+     margin: 0 auto;
+}
+
+.buyukdiv {
+     margin:0 auto;
+     width: 900px;
+     height: 196px;
+}
+
+.menu {
+     width: 904px;
+     height: 96px;
+     background-color: #EEEEEE;
+     margin: 0 auto 2px 0;
+}
+
+.div1 {
+     text-align: center;
+     height:20px;
+}
+
+.div2 {
+     text-align: center;
+     height:20px;
+     padding-top:10px;
+}
+
+.div3 {
+     text-align: center;
+     padding-top:10px;
+     height:20px;
+}
+
+.altbuyuk {
+     width: 904px;
+     height:100px;
+}
+
+.altdiv1 {
+     width: 300px;
+     height: 85px;
+     background-color:#7EE5DA;
+     float: left;
+     margin-right: 2px;
+     text-align: center;
+     padding-top: 15px;
+}
+
+.altdiv2 {
+     width: 300px;
+     height: 90px;
+     background-color: #70CCC2;
+     float: left;
+     margin-right: 2px;
+     text-align: center;
+     padding-top: 10px;
+}
+
+.altdiv3 {
+     width: 300px;
+     height: 95px;
+     background-color: #62B3AA;
+     float: left;
+     text-align: center;
+     padding-top: 5px;
+}
+
+.copyright {
+     clear: both;
+     text-align: center;
+     margin-top: 10px;
+}
